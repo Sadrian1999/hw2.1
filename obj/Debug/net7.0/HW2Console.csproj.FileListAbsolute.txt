@@ -1,0 +1,14 @@
+D:\Programming\c#\HW2Console\bin\Debug\net7.0\HW2Console.exe
+D:\Programming\c#\HW2Console\bin\Debug\net7.0\HW2Console.deps.json
+D:\Programming\c#\HW2Console\bin\Debug\net7.0\HW2Console.runtimeconfig.json
+D:\Programming\c#\HW2Console\bin\Debug\net7.0\HW2Console.dll
+D:\Programming\c#\HW2Console\bin\Debug\net7.0\HW2Console.pdb
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.AssemblyInfoInputs.cache
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.AssemblyInfo.cs
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.csproj.CoreCompileInputs.cache
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.dll
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\refint\HW2Console.dll
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.pdb
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\HW2Console.genruntimeconfig.cache
+D:\Programming\c#\HW2Console\obj\Debug\net7.0\ref\HW2Console.dll
